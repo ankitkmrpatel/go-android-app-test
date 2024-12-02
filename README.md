@@ -1,0 +1,1 @@
+# go-android-app-test
